@@ -1,11 +1,12 @@
-# How-to-select-and-upload-image-file-using-JQuery-Ajax
-How to select and upload image file using JQuery Ajax
+##Customer App
+##Adding, deleting, Updating functionalities
 
-
-View online complete documentation and integration <a href="https://learncodeweb.com/web-development/how-to-select-and-upload-image-file-using-jquery-ajax/">Click Here</a>
-
-View working example <a href="https://learncodeweb.com/demo/web-development/how-to-select-and-upload-image-file-using-jquery-ajax/">View Demo</a>
-
-Thank you
-
-Regards Zaid Bin Khalid
+##Customer form fields: 
+• First Name >> text 
+• Last Name >> text 
+• email >> email 
+• mobile number >> number 
+• country dropdown (sample countries 3 to 4) 
+• States >> dropdown (All states in India) dependency dropdown from ajax request 
+• pincode >> number 
+• photo >> (jquery upload) 
